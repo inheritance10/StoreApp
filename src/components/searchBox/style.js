@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
         borderRadius: 11
     },
     search_text:{
-        fontSize: 18
+        fontSize: 18,
     }
 });
 
